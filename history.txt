@@ -1,2 +1,7 @@
 Apache Spark es un framework de computación en clúster open-source. Fue desarrollada originariamente en la Universidad de California, en el AMPLab de Berkeley. 
-El código base del proyecto Spark fue donado más tarde a la Apache Software Foundation que se encarga de su mantenimiento desde entonces.
+El código base del
+proyecto Spark fue donado más tarde a la Apache Software Foundation que se encarga de su mantenimiento desde entonces.
+
+
+Is PySpark the same as Python?
+PySpark is a Python-based API that uses the Spark framework in combination with Python. But, we all know that Spark is the Big data engine while Python is a programming language.31 ene 2022
